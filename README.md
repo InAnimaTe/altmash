@@ -1,5 +1,7 @@
 ## AltMash - The terminal based coin data analyzer
 
+> As I'll probably never get the time to actually build this, I figure I should at least link another awesome project called [coinmon](https://github.com/bichenkk/coinmon). It does a lot of what I meant for altmash and has some exciting upcoming features. Additionally, check out https://github.com/cmahon/awesome-cryptocurrency and https://github.com/kennethreitz/awesome-coins for more awesome crypto related stuff!
+
 AltMash helps you understand the current market and how your present/future
 investments may fare. AltMash does this utilizing the API for the given exchange
 and actually having the intelligence to do some quick and simple calculations
